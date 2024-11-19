@@ -1,5 +1,4 @@
 config:
-	ENV_VAR1: value1
-	ENV_VAR2: value2
-	ENV_VAR3: value3
-	supersecret: path:avp-secrets/data/awesome_service#supersecret
+ var1: value1
+ var2: value3
+ supersecret: path:avp-secrets/data/awesome_service#supersecret
