@@ -1,4 +1,4 @@
 config:
  var1: value1
  var2: value3
- supersecret: path:avp-secrets/data/awesome_service#supersecret
+ supersecret: <path:avp-secrets/data/awesome_service#supersecret>
